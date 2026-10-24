@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+triton_cache/
+*.nsys-rep
+*.ncu-rep
+*.qdrep
+*.qdstrm
+outputs/
+*.log
+
+# 第三方源码不入库（按需自行 clone）
+third_party/
+.DS_Store
